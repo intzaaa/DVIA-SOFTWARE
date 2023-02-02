@@ -1,11 +1,13 @@
 # DVIA SOFTWARE
 
 - [**Adobe Creative Cloud**](https://creativecloud.adobe.com/apps/download/creative-cloud/)
-- [**Adobe Master Collection**](https://w14.monkrus.ws/search?q=Adobe+Master+Collection)
+- [**Adobe GenP**](https://www.reddit.com/r/GenP/)
+  - [Adobe GenP 3.0](https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file)
+  - [Adobe GenP 2.7](https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file)
 - [**OBS Studio**: Free and open source software for video recording and live streaming](https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/)
 - [**VLC**: a free and open source cross-platform multimedia player and framework](https://mirrors.tuna.tsinghua.edu.cn/videolan-ftp/vlc/last/)
 - [**HandBrake**: The open source video transcoder](https://handbrake.fr/)
-- [**fre:a**: a free audio converter and CD ripper](https://www.freac.org/)
+- [**fre:ac**: a free audio converter and CD ripper](https://www.freac.org/)
 - [**7-Zip**: a file archiver with a high compression ratio](https://www.7-zip.org/)
 - [**VB-CABLE Virtual Audio Device**: a virtual audio device working as virtual audio cable](https://vb-audio.com/Cable/index.htm)
 - [**SonoBus**: High Quality Network Audio Streaming](https://sonobus.net/)

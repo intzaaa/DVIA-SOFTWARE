@@ -5,6 +5,7 @@
   - [Adobe GenP 3.0](https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file)
   - [Adobe GenP 2.7](https://www.mediafire.com/file/3lpsrxiz47mlhu2/Adobe-GenP-2.7.zip/file)
 - [**OBS Studio**: Free and open source software for video recording and live streaming](https://mirrors.tuna.tsinghua.edu.cn/github-release/obsproject/obs-studio/LatestRelease/)
+- [**LosslessCut**: The swiss army knife of lossless video/audio editing](https://mifi.github.io/lossless-cut/)
 - [**VLC**: a free and open source cross-platform multimedia player and framework](https://mirrors.tuna.tsinghua.edu.cn/videolan-ftp/vlc/last/)
 - [**HandBrake**: The open source video transcoder](https://handbrake.fr/)
 - [**fre:ac**: a free audio converter and CD ripper](https://www.freac.org/)
